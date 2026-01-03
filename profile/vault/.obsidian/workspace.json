@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "0bda64f24e3c07e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7258baf235b5ac8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4649192ed7d67ede",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Инструкция №2/Текст.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Текст"
+            }
+          },
+          {
+            "id": "00388e2a4ab1fe30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Инструкция №2/Текст.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Текст"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e8b4ae6d40845d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d576bbdf26c41650",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b31ba506b9d7303",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "c83273a5ce7c20a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "874a73f156a2e890",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d268ecca5f5e3ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a6a4b388a0d65a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a3ec8c949e064f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "images/Знак Куратора УИТ - Олег Александрович Бедрин.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Знак Куратора УИТ - Олег Александрович Бедрин"
+            }
+          },
+          {
+            "id": "bf64f7a83a8717f0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "images/Знак Куратора УИТ - Олег Александрович Бедрин.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Знак Куратора УИТ - Олег Александрович Бедрин"
+            }
+          },
+          {
+            "id": "aa1467a703db944c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "fbac1df3ac9df403",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "images/Знак Куратора УИТ - Олег Александрович Бедрин.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Знак Куратора УИТ - Олег Александрович Бедрин"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Создать новую базу": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "00388e2a4ab1fe30",
+  "lastOpenFiles": [
+    "Инструкция №1/Подпись_Куратора_УИТ_Инструкция_1.sig",
+    "Инструкция №1/Подпись_Куратора_УИТ_Инструкция_1.UgYceHRS.sig.part",
+    "Инструкция №1/Стегано_печать_Куратор_УИТ_Инструкция_1.png",
+    "Инструкция №1/Стегано_печать_Куратор_УИТ_Инструкция_3.png",
+    "Инструкция №2/Подпись_Куратора_УИТ_Инструкция_2.tar.sig",
+    "Инструкция №2/Подпись_Куратора_УИТ_Инструкция_2.6AJu5ZH1.tar.sig.part",
+    "Инструкция №2/Стегано_печать_Куратор_УИТ_Инструкция_2.png",
+    "Инструкция №2/Стегано_печать_Куратор_УИТ_Инструкция_3.png",
+    "Инструкция №1/Знак_Куратора_УИТ_ЦИК.png",
+    "Инструкция №1/Текст.md",
+    "Регламент/Текст.md",
+    "Инструкция №1/Подпись_Куратора_УИТ_Инструкция_1.tar.sig",
+    "Инструкция №1/Подпись_Куратора_УИТ_Инструкция_1.LIqWZqve.tar.sig.part",
+    "Регламент/Логотип_ИТ_ЦИК_отдел_Серверной_разработки_СР.png",
+    "Регламент/Логотип_ИТ_ЦИК_отдел_Разработки_интерфейсов_РИ.png",
+    "Регламент/Логотип_ИТ_ЦИК_отдел_Кадров_К.png",
+    "Регламент/Логотип_ИТ_ЦИК_отдел_Децентрализованных_вычислений_ДВ.png",
+    "Регламент/Логотип_ИТ_ЦИК_отдел_Безопасности_Б.png",
+    "Регламент/Знак внештатного Сотрудника проектной группы.png.0.pdnSave",
+    "Регламент",
+    "Регламент УИТ ЦИК.md",
+    "Инструкция №2/Текст.md",
+    "Инструкция №1",
+    "Инструкция №2/Подпись_Куратор_УИТ_Инструкция_2.tar.sig",
+    "Инструкция №2/Подпись_Куратор_УИТ_Инструкция_2.KGIkPp9e.tar.sig.part",
+    "Инструкция №3/Текст.md",
+    "Знак_Куратора_группы_Шамир_Гордопольцева_Анна_Дмитриева.md",
+    "Картинки/Знак.md"
+  ]
+}
