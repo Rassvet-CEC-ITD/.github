@@ -1,0 +1,25 @@
+Это сертификат отзыва ключа OpenPGP:
+
+             Куратор Управления <kit@rassvet.ru>
+Fingerprint: 5314A3B7B115335EDE6222B192542CA8AEDB22DF
+
+Сертификат отзыва — своего рода «аварийный выключатель» 
+для объявления того, что ключ больше не будет использоваться. 
+Публикация сертификата отзыва — необратимое действие.
+
+Используйте сертификат для отзыва этого ключа в случае 
+компрометации или потери своего закрытого ключа.
+
+В качестве защитной меры от случайного использования
+в содержимое файла перед пятью тире добавлено двоеточие. Перед импортом и
+публикаций сертификата отзыва удалите это двоеточие
+с помощью приложения для редактирования текста.
+
+:-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: This is a revocation certificate
+
+iHgEIBYKACAWIQRTFKO3sRUzXt5iIrGSVCyortsi3wUCaVmWFQIdAAAKCRCSVCyo
+rtsi33VSAQDug5WIcoUeyUvzZkSHRq0pKMA9ILOmG7vNLc8D5f4vBQD9Hj59Hs6e
+17so+fg5dg5zK7Mwrsw+KT2iJoRXHMwC+wQ=
+=gPuZ
+-----END PGP PUBLIC KEY BLOCK-----
